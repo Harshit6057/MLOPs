@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Harsh/MY%20FILES/MLOPs/Mlflow/mlruns/0/ec060d41bdca4dcc955943157565e013/artifacts
+end_time: 1757100337142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec060d41bdca4dcc955943157565e013
+run_name: rogue-duck-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757100337009
+status: 3
+tags: []
+user_id: Harsh

@@ -1,0 +1,7 @@
+mlflow==2.14.3
+dagshub
+dvc
+
+
+# dagsub token = 4b8ade60a39c1783d6d4ee19d9f0a5f19cd0d0ee
+# harshitsb2615token = 837ccb4a68cc6f326bda3017b4465dce5de61f39
